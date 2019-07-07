@@ -1,0 +1,3 @@
+sump.c:41:6:SumpInit	8	static
+sump.c:47:9:SumpAnalyze	24	static
+sump.c:119:9:SumpIsLongCommand	24	static

@@ -1,0 +1,4 @@
+LA.c:15:6:LASetSamplingFreq	72	static
+LA.c:56:6:LABeginSampling	24	static
+LA.c:73:9:LAIsSamplingComplete	4	static
+LA.c:79:13:DMATransferComplete	16	static
